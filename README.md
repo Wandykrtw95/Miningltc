@@ -1,0 +1,2 @@
+# Miningltc
+Script mining
